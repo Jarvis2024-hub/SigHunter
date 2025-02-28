@@ -1,0 +1,1 @@
+# Init file for package virustotal_scanner

@@ -1,0 +1,1 @@
+# Init file for package static_analysis

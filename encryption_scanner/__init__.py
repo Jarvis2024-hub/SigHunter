@@ -1,0 +1,1 @@
+# Init file for package encryption_scanner
